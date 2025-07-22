@@ -179,10 +179,4 @@ Follow these steps to set up and run the project on your local machine.
 3.  **Data:**
     Ensure that the dataset `gw 34.csv` is located in the appropriate directory as referenced in the notebook.
 
-### **`requirements.txt`**
-scikit-learn
-pandas
-numpy
-seaborn
-matplotlib
-jupyter
+
